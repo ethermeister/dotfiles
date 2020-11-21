@@ -1,0 +1,19 @@
+[Desktop Entry]
+DefaultProfile=Profile 1.profile
+
+[Favorite Profiles]
+Favorites=
+
+[MainWindow]
+Height 1050=667
+Height 1080=1046
+RestorePositionForNextInstance=false
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAPUAAAABAAAAAQAAAAIAAAACPwAAAAA
+ToolBarsMovable=Disabled
+Width 1680=1280
+Width 1920=952
+eDP-1 Height 1080=1006
+eDP-1 Width 1920=1920
+eDP-1 Window-Maximized 1080x1920=true
+eDP-1 XPosition=0
+eDP-1 YPosition=30

@@ -1,0 +1,36 @@
+[General]
+SystemTrayIcon=true
+WalletSupport=false
+
+[MainWindow]
+Height 1080=1015
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAQAAAAAAAAEQAAAD0fwCAAAAAfsAAAAwAHIAZQBtAG8AdABlAEQAZQBzAGsAdABvAHAAcwBEAG8AYwBrAFcAaQBkAGcAZQB0AQAAACYAAAPRAAAApwEAAAMAAAZvAAAD0QAAAAQAAAAEAAAACAAAAAj8AAAAAQAAAAIAAAABAAAAMABrAHIAZABjAF8AcgBlAG0AbwB0AGUAXwB2AGkAZQB3AF8AdABvAG8AbABiAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1920=1920
+
+[Plugins]
+krdc_rdppluginEnabled=true
+krdc_testpluginEnabled=false
+krdc_vncpluginEnabled=true
+
+[RDP]
+Height=800
+KeyboardLayout=6
+Width=1280
+
+[hostpreferences][rdp://co1vdi03.corp.lmax]
+colorDepth=2
+console=false
+extraOptions=
+height=1024
+keyboardLayout=6
+performance=2
+remoteFX=true
+resolution=3
+shareMedia=/media
+showConfigAgain=true
+sound=0
+soundSystem=0
+walletSupport=true
+width=1280

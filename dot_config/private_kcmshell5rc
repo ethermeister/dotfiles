@@ -1,0 +1,8 @@
+[DownloadDialog Settings]
+Height 1080=477
+Width 1920=700
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/Downloads/LMAXCorporateCA.pem,file:$HOME/Downloads/LMAXCorporateCA2018.crt
+Recent URLs[$e]=file:$HOME/Downloads/
+detailViewIconSize=0

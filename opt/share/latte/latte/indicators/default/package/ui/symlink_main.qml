@@ -1,0 +1,1 @@
+/usr/share/latte/./indicators/default/package/ui/main.qml

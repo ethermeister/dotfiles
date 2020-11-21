@@ -1,0 +1,8 @@
+[$Version]
+update_info=kscreenlocker.upd:0.1-autolock
+
+[Greeter]
+Theme=com.github.vinceliuice.ChromeOS-dark
+
+[Greeter][Wallpaper][org.kde.image][General]
+Image=file:///home/ramosm/.local/share/wallpapers/Next Theme KDE Wallpaper Material Version.png

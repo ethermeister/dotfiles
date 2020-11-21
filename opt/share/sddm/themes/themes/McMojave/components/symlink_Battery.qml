@@ -1,0 +1,1 @@
+/usr/share/sddm/themes/./McMojave/components/Battery.qml

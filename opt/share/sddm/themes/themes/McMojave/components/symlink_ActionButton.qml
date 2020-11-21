@@ -1,0 +1,1 @@
+/usr/share/sddm/themes/./McMojave/components/ActionButton.qml

@@ -1,0 +1,6 @@
+[History]
+CompletionItems=unused
+
+[Location Bar]
+ComboContents[$e]=https://www.google.com/search?q=akonadi&ie=UTF-8,https://www.google.com/?gws_rd=ssl
+ComboIconCache[$e]=https://www.google.com/search?q=akonadi&ie=UTF-8,$HOME/.cache/favicons/www.google.com.png,https://www.google.com/?gws_rd=ssl,$HOME/.cache/favicons/www.google.com.png

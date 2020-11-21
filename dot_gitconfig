@@ -1,0 +1,6 @@
+[http]
+	sslVerify = false
+[init]
+	templatedir = ~/.git_templates
+[credential]
+	helper = cache

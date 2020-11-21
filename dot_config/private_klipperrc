@@ -1,0 +1,6 @@
+[General]
+KeepClipboardContents=false
+MaxClipItems=10
+PreventEmptyClipboard=false
+TimeoutForActionPopups=5
+Version=5.18.5

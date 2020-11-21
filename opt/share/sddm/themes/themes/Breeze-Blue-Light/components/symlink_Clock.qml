@@ -1,0 +1,1 @@
+/usr/share/sddm/themes/./Breeze-Blue-Light/components/Clock.qml

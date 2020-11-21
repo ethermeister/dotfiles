@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =7
+let g:netrw_dirhist_7='/home/ramosm/lmax_git/techops-puppet/lmax-profile/manifests/infosec/jump_host'
+let g:netrw_dirhist_6='/home/ramosm/lmax_git/phish-monitor/phishmonitor/templates'
+let g:netrw_dirhist_5='/home/ramosm/lmax_git/techops-puppet/lmax-controlrepo/manifests'
+let g:netrw_dirhist_4='/home/ramosm/Vagrant/parsedmarc/modules/parsedmarc/manifests'
+let g:netrw_dirhist_3='/home/ramosm/Vagrant/rt4vagrant'
+let g:netrw_dirhist_2='/home/ramosm/lmax_git/techops-puppet/lmax-profile/manifests/infosec/jump_host'
+let g:netrw_dirhist_1='/home/ramosm/lmax_git/techops-puppet/lmax-infra/manifests/nagios'
+let g:netrw_dirhist_0='/home/ramosm/lmax_git/techops-puppet/lmax-profile/manifests/time'
+let g:netrw_dirhist_9='/home/ramosm/lmax_git/techops-puppet/lmax-profile/manifests/infosec'
+let g:netrw_dirhist_8='/home/ramosm/lmax_git/techops-puppet/lmax-profile/manifests'

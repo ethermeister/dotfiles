@@ -1,0 +1,12 @@
+[activities]
+1b1870ba-6f1b-46af-8e8e-bdc75e4fc40d=Default
+8e93eb2a-07be-46bd-ac88-0e4909b51d98=CISSP
+
+[activities-descriptions]
+8e93eb2a-07be-46bd-ac88-0e4909b51d98=CISSP
+
+[activities-icons]
+8e93eb2a-07be-46bd-ac88-0e4909b51d98=activities
+
+[main]
+currentActivity=1b1870ba-6f1b-46af-8e8e-bdc75e4fc40d

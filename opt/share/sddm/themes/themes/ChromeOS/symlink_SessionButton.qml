@@ -1,0 +1,1 @@
+/usr/share/sddm/themes/./ChromeOS/SessionButton.qml

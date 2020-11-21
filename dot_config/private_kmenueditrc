@@ -1,0 +1,11 @@
+[General]
+SplitterSizes=275,354
+
+[KFileDialog Settings]
+Recent Files[$e]=Bitwarden-1.18.0-x86_64.AppImage,file:$HOME/Apps/Bitwarden-1.18.0-x86_64.AppImage
+Recent URLs[$e]=file:$HOME/Apps/
+detailViewIconSize=0
+
+[MainWindow]
+State=AAAA/wAAAAD9AAAAAAAAAoAAAAGdAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
